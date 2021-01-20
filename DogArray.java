@@ -1,3 +1,5 @@
+/** DogArray class
+  */
 public class DogArray
 {
 
